@@ -1,4 +1,4 @@
-### Hi! I'm Brian Chao.
+### Hi! I'm Brian.
 
 I'm a first-year Stanford EE Ph.D. student. My research interests include **computational imaging and displays, computer graphics, and machine learning**.
 
